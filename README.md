@@ -1,2 +1,4 @@
 # SMJE4383_AP
-SMJE4383 Ad_Programming 
+SMJE4383 Advanced_Programming 
+
+STUDENT: GAN WAI KEET
